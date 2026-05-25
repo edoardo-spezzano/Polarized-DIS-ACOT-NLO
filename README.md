@@ -18,8 +18,7 @@ The repository consists of the core analytical notebooks for the polarized chann
   Implements the NLO computations for the polarized boson–gluon fusion process. Results are benchmarked and validated against arXiv:1910.01536.
   
 * **`NLO_Pol_DIS_ACOT_QuarkScatt.nb`**
-  Implements the NLO computations for the polarized quark scattering process. Note that this specific channel is evaluated in the real case with $D=4$ dimensions.
-
+  Implements the NLO computations for the polarized quark scattering process.
 ---
 
 ## Prerequisites
